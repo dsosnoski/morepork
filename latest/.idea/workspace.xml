@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b0ddb6-6eb5-4971-9ef7-ae3347f9cf9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mGc9srPkHX4mnR2B0j9jiM32Xd" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cacophony/audio-analysis" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b0ddb6-6eb5-4971-9ef7-ae3347f9cf9d" name="Default Changelist" comment="" />
+      <created>1609123219038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609123219038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2418" y="478" key="FileChooserDialogImpl" timestamp="1614032248802">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2418" y="478" key="FileChooserDialogImpl/0.0.3440.1440/3440.0.1920.1080@0.0.3440.1440" timestamp="1614032248802" />
+    <state x="2132" y="355" key="SettingsEditor" timestamp="1614030535115">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2132" y="355" key="SettingsEditor/0.0.3440.1440/3440.0.1920.1080@0.0.3440.1440" timestamp="1614030535115" />
+    <state x="2313" y="549" key="com.intellij.ide.util.TipDialog" timestamp="1617402936389">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2313" y="549" key="com.intellij.ide.util.TipDialog/0.0.3440.1440/3440.0.1920.1080@0.0.3440.1440" timestamp="1617402936389" />
+  </component>
+</project>
